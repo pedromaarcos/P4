@@ -11,4 +11,4 @@ Este proyecto implementa una API REST con Spring Boot para gestionar equipos dep
 - Maven
 
 ## Estructura del Proyecto
-Para esta parte se ha creado un PDF con los Endpoints. [Descargar Laboratorio PAT](./Laboratorio PAT.pdf)
+Para esta parte se ha creado un PDF con los Endpoints. [Descargar Laboratorio PAT](./Laboratorio%20PAT.pdf)
