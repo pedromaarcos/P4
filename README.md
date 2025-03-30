@@ -12,5 +12,6 @@ Este proyecto implementa una API REST con Spring Boot para gestionar equipos dep
 - Postman
 
 ## Estructura del Proyecto
-Para esta parte se ha creado un PDF con los Endpoints. [Descargar Laboratorio PAT](./Laboratorio%20PAT.pdf)
+Para esta parte se ha creado un PDF con los Endpoints. [Descargar Laboratorio PAT](./Laboratorio%20PAT.pdf).
 No se ha hecho frontEnd porque no se especifacaba en el enunciado de la práctica. De esta forma se ha hehco más incapié en poder sacar el máximo potencial al uso de API REST.
+Se adjunta un ZIP con el proyecto en el apartado de documentos.
